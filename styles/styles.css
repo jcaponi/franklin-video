@@ -67,7 +67,8 @@ body {
   font-family: var(--body-font-family);
   line-height: 1.6;
   color: var(--text-color);
-  background-color: var(--background-color);
+/*	  background-color: var(--background-color); */
+background-color: pink; 
   display: none;
 }
 
